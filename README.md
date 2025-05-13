@@ -115,7 +115,7 @@ A comprehensive web application for detecting faults in bearing components using
 ### Viewing Analysis History
 
 1. Navigate to the "History" tab
-2. Log in with provided credentials (default: `madhura@123` / `madhura@123`)
+2. Log in with provided credentials 
 3. Browse previous analyses
 4. Download history as Excel file if needed
 
@@ -226,7 +226,7 @@ Each analysis is stored with the following fields:
 
 The history tab requires authentication to protect analysis data:
 
-- Default username: `madhura@123` 
+- Default username: `madhura@123`
 - Default password: `madhura@123`
 
 *Note: For production use, modify the credentials in the code.*
@@ -261,9 +261,9 @@ nohup streamlit run app.py --server.port=8501 &
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch 
+3. Commit your changes 
+4. Push to the branch 
 5. Open a Pull Request
 
 ## 📄 License
@@ -271,4 +271,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Developed by Sri Madhura Engineering | For technical support contact: support@madhuraengineering.com
+Developed by Ezhilarasu,KavinPradheep,Dinesh
