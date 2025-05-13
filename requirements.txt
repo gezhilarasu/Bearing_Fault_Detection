@@ -1,0 +1,12 @@
+streamlit
+numpy
+scipy
+tensorflow
+joblib
+matplotlib
+pandas
+scikit-learn
+librosa
+pymongo
+openpyxl
+python-dotenv
